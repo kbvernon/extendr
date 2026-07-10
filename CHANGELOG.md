@@ -18,6 +18,7 @@
 - Added `#write_make_module_wrappers()` to `extendr_module!` macro <https://github.com/extendr/extendr/pull/1092>
   This is part of the process of moving `document.rs` into `document.c` to avoid
   issues with compiling that binary into target, see https://github.com/extendr/extendr/issues/1087.
+- Adds `Robj::null()` utility <https://github.com/extendr/extendr/pull/1099>
 
 ### Changed
 
