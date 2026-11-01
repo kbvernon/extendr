@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"attr":["extendr"],"derive":["IntoDataFrameRow","IntoList","TryFromList"],"enum":["Either"],"macro":["R","Rraw","call","extendr_module",["for_both",1],"list",["map_both",1],"pairlist",["try_left",1],["try_right",1]],"struct":["IterEither"],"trait":["FromStr","IntoEither","TryFrom","TryInto"]};

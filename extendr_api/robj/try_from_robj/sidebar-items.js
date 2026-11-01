@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"macro":[["impl_try_from_robj",1],["impl_try_from_robj_for_arrays",1],["impl_try_from_scalar_integer",1],["impl_try_from_scalar_real",1],["impl_typed_slice_conversions",1]]};

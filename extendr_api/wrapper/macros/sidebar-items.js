@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"macro":[["gen_from_iterator_impl",1],["gen_vector_wrapper_impl",1]]};

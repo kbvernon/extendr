@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"macro":[["gen_binop",1],["gen_binopassign",1],["gen_from_primitive",1],["gen_partial_ord",1],["gen_sum_iter",1],["gen_trait_impl",1],["gen_unop",1]]};

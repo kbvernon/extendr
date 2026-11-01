@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["str_from_strsxp"],"macro":[["impl_iter_debug",1]],"struct":["StrIter"],"trait":["AsStrIter"],"type":["NamedListIter"]};

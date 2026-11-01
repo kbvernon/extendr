@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["BASE"],"macro":[["impl_rcolumn_into_wrapper",1],["impl_try_from_robj_ref",1]],"struct":["ColIter","RArray","RowIter"],"trait":["MatrixConversions","Offset"],"type":["RColumn","RMatrix","RMatrix3D","RMatrix4D","RMatrix5D"]};
